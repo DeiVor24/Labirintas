@@ -23,6 +23,7 @@ Design: [Eduhouse](https://dribbble.com/shots/2537184-Day-088-404-Page-Daily-UI/
 -   icons (FontAwesome, ReactIcons)
 -   inline CSS files
 -   SVG images
+-   favicon
 -   **NO** responsive design
 
 ## 🧰 Getting Started
