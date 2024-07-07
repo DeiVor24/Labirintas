@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "dead-server --host=localhost --port=5104",
+    "dev": "dead-server --host=localhost --port=5104 --browser=chrome",
     "dev2": "dead-server --port=5104",
     "dev3": "dead-server --host=localhost",
     "dev4": "dead-server", 
